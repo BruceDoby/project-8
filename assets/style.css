@@ -2,6 +2,9 @@
 .nav-pills .nav-link {
     color: #000;
 }
+.visually-hidden {
+    color: #3B3B3B;
+}
 .about-me__introduction,
 .quote,
 .quote__text {
